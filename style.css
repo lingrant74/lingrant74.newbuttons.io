@@ -1,0 +1,204 @@
+
+.title{
+font-size: 50px;
+text-align: center;
+color: red;
+}
+
+.hor{
+border: 3px dotted green;
+
+}
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+
+.join-button{
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(41, 118, 251);
+    color: rgb(41, 118, 251);
+    border-radius: 7px;
+    width: 600px;
+    height: 100px;
+    border-width: 4px;
+    cursor: pointer;
+    transition: background-color 1s, color 1s, opacity 1s;
+    margin:  auto;
+    display:block;
+    font-size:60px;
+    font-family: copperplate;
+    margin-top: -0px;
+    }
+.join-button h6 {
+    font-size: 20px;
+    margin-top: -2px;
+    } 
+
+
+    .join-button:hover{
+    background-color: rgb(41, 118, 251);
+    color:white;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .6);
+    }
+
+    .join-button:active{
+    opacity: 0.7;
+
+    }
+
+.youtube{
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(41, 118, 251);
+    color: rgb(41, 118, 251);
+    border-radius: 7px;
+    width: 600px;
+    height: 100px;
+    border-width: 4px;
+    cursor: pointer;
+    transition: background-color 1s, color 1s, opacity 1s;
+    margin:  auto;
+    display:block;
+    font-size:60px;
+    font-family: copperplate;
+    margin-top: -0px;
+    
+}
+.youtube:hover{
+    background-color: rgb(41, 118, 251);
+    color:white;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .6);
+    }
+
+    .youtube:active{
+    opacity: 0.7;}
+
+
+    .insta{
+        background-color: white;
+        border-style: solid;
+        border-color: rgb(41, 118, 251);
+        color: rgb(41, 118, 251);
+        border-radius: 7px;
+        width: 600px;
+        height: 100px;
+        border-width: 4px;
+        cursor: pointer;
+        transition: background-color 1s, color 1s, opacity 1s;
+        margin:  auto;
+        display:block;
+        font-size:60px;
+        font-family: copperplate;
+        margin-top: -0px;
+        
+    }
+    .insta:hover{
+        background-color: rgb(41, 118, 251);
+        color:white;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, .6);
+        }
+    
+        .insta:active{
+        opacity: 0.7;}
+
+
+        .steam{
+            background-color: white;
+            border-style: solid;
+            border-color: rgb(41, 118, 251);
+            color: rgb(41, 118, 251);
+            border-radius: 7px;
+            width: 600px;
+            height: 100px;
+            border-width: 4px;
+            cursor: pointer;
+            transition: background-color 1s, color 1s, opacity 1s;
+            margin:  auto;
+            display:block;
+            font-size:60px;
+            font-family: copperplate;
+            margin-top: -0px;
+            
+        }
+        .steam:hover{
+            background-color: rgb(41, 118, 251);
+            color:white;
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, .6);
+            }
+        
+        .steam:active{
+            opacity: 0.7;}
+
+            .discord{
+                background-color: white;
+                border-style: solid;
+                border-color: rgb(41, 118, 251);
+                color: rgb(41, 118, 251);
+                border-radius: 7px;
+                width: 600px;
+                height: 100px;
+                border-width: 4px;
+                cursor: pointer;
+                transition: background-color 1s, color 1s, opacity 1s;
+                margin:  auto;
+                display:block;
+                font-size:60px;
+                font-family: copperplate;
+                margin-top: -0px;
+                
+            }
+            .discord:hover{
+                background-color: rgb(41, 118, 251);
+                color:white;
+                box-shadow: 5px 5px 10px rgba(0, 0, 0, .6);
+                }
+            
+            .discord:active{
+                opacity: 0.7;}
+
+            .hr2{
+            margin-top: 15px;
+            width: 60%;
+            border-width: 6px;
+            border-radius: 5px;
+            border-style: outset;
+            border-color: rgba(47, 255, 0, 0.876);
+            }
+
+            .tennis{
+                background-color: white;
+                border-style: solid;
+                border-color: rgb(41, 118, 251);
+                color: rgb(41, 118, 251);
+                border-radius: 7px;
+                width: 600px;
+                height: 100px;
+                border-width: 4px;
+                cursor: pointer;
+                transition: background-color 1s, color 1s, opacity 1s;
+                margin:  auto;
+                display:block;
+                font-size:60px;
+                font-family: copperplate;
+                margin-top: -0px;
+                
+            }
+            .tennis:hover{
+                background-color: rgb(41, 118, 251);
+                color:white;
+                box-shadow: 5px 5px 10px rgba(0, 0, 0, .6);
+                }
+            
+            .tennis:active{
+                opacity: 0.7;}
+
+            .h62{
+            font-size: 20px;
+            margin-top: -2px;
+            }
